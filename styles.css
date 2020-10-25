@@ -1,0 +1,23 @@
+img{
+	 border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+}
+body {
+	background-color:yellow
+	font-family:Arial;
+}
+div{
+	color:blue;
+	font-size:24px;
+}
+spen{
+	font-size:21px
+}
+#specialstyle{
+	color:red;font-size:20px;
+}
+div2{
+	font-size:20px
+}
